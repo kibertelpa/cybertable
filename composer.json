@@ -1,0 +1,22 @@
+{
+    "name": "kibertelpa/cybertable",
+    "description": "addon for yajra datatables",
+    "type": "library",
+    "require": {
+        "yajra/laravel-datatables": "^1.5",
+        "laravel/framework": "^8.0"
+    },
+	"autoload": {
+        "psr-4": {
+            "Kibertelpa\\Cybertable\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Māris Reinolds",
+            "email": "marisreinolds@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
