@@ -1,0 +1,1 @@
+<input data-itype="text" placeholder="{{$input['title']}}" type="text" class="form-control form-filter input-sm datatable-input" name="{{$datatable}}_{{$input['name']}}" id="{{$datatable}}_{{$input['name']}}" />

@@ -1,0 +1,1 @@
+<input data-itype="checkbox" type="checkbox" class="form-control form-filter input-sm" name="{{$datatable}}_{{$input['name']}}?>" id="{{$datatable}}_{{$input['name']}}"/>
